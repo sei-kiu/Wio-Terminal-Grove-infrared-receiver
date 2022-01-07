@@ -1,4 +1,4 @@
-# Wio-Terminal-detecting-IR-remote-button-presses
+# Wio-Terminal-Grove-infrared-receiver
 
 Objective
 - Detect presses from IR remote
