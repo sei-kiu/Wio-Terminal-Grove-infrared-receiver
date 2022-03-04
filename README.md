@@ -9,4 +9,4 @@ Libraries used
 Reference
 - [Wio Terminal Classroom #11 | Build a TV Remote using the built-in IR Emitter](https://www.youtube.com/watch?v=C9AlljLst2o&t=1s)
 
-Wio Terminal
+This example shows how to use Wio Terminal to send signals via infrared receiver.
